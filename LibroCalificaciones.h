@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-//sFVSDFVSDFVavaevdf
+//sFVSDFVSDFVavaevdfasdasd 
 class LibroCalificaciones
 	{
 public:
